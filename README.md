@@ -1,5 +1,5 @@
 
-Salesforce Fundamentals Documentation
+##Salesforce Fundamentals Documentation
 
 This repository contains in-depth documentation on Salesforce Architecture, covering both the Admin and Developer Tracks with real-life examples. It provides a foundational understanding of CRM (Customer Relationship Management) and deep insights into Salesforce Administration and Development.
 
